@@ -13,9 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
- 
-**Languages and Tools:**
-
+  
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://azure.microsoft.com/en-in/" title="Azure"><img src="icons/azure.svg" /></a>
@@ -23,3 +21,5 @@
 
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://dotnet.microsoft.com/apps/xamarin" title="Xamarin"><img src="icons/xamarin.svg" /></a>
+
+</p>
