@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me: ltejedasanchez@gmail.com</h3>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+ 
  
   
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
@@ -21,5 +21,4 @@
 
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://dotnet.microsoft.com/apps/xamarin" title="Xamarin"><img src="icons/xamarin.png" /></a>
-
-</p>
+ 
