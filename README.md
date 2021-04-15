@@ -20,6 +20,6 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://dotnet.microsoft.com/apps/xamarin" title="Xamarin"><img src="icons/xamarin.svg" /></a>
+<a href="https://dotnet.microsoft.com/apps/xamarin" title="Xamarin"><img src="icons/xamarin.png" /></a>
 
 </p>
