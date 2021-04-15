@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Tejeda</h1>
 <h3 align="center">A passionate developer/architect from México</h3>
 
-- 🔭 I’m currently working on **a different projects**
+- 🔭 I’m currently working on **different projects**
 
 - 🌱 I’m currently learning **React :)**
 
