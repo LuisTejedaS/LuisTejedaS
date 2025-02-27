@@ -1,24 +1,37 @@
-<h1 align="center">Hi 👋, I'm Luis Tejeda</h1>
-<h3 align="center">A passionate developer/architect from México</h3>
+<h1 align='center'>Hi there  👋, I'm Luis
 
-- 🔭 I’m currently working on **different projects**
+<p align='center'>👨‍💻 Techlead/Backend Dev.</p>
 
-- 🌱 I’m currently learning **React :)**
+<div align='center'>
 
-- 💬 Ask me about **dotnet**
+  <a href="https://www.linkedin.com/in/luis-alfredo-tejeda-s%C3%A1nchez" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 📫 How to reach me **ltejedasanchez@gmail.com**
+</div>
 
-<h3 align="left">Connect with me: ltejedasanchez@gmail.com</h3>
-<h3 align="left">Languages and Tools:</h3>
- 
- 
-  
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://azure.microsoft.com/en-in/" title="Azure"><img src="icons/azure.svg" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<h3>👨‍💻 Languages</h3>
 
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://dotnet.microsoft.com/apps/xamarin" title="Xamarin"><img src="icons/xamarin.png" /></a>
- 
+<div style="display: flex; gap: 10px;">
+  <img style='height: 30px;' src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/C%23-C--Sharp-323330?style=for-the-badge&logo=csharp" />&nbsp;&nbsp;
+</div>
+
+
+<h3>📚 Libraries</h3>
+
+<p >
+  <img style='height: 30px;' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+
+</p>
+
+
+<h3>📈 Github Stats</h3>
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LuisTejedaS&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 97%" />
+
+</td><td valign="top" width="50%">
+
+</td></tr></table>  
