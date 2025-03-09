@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there  👋, I'm Luis
 
-<p align='center'>👨‍💻 Techlead/Backend Dev.</p>
+<p align='center'>👨‍💻 TechLead/Backend Dev.</p>
 
 <div align='center'>
 
